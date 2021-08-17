@@ -1,0 +1,1 @@
+oscript unloadrelease.os -base ИмяКонфигурации -setting файлнастроек.json
